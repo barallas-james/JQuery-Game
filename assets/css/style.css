@@ -1,0 +1,21 @@
+*{
+
+	box-sizing: border-box;
+	font-family: 'Unlock', cursive;
+}
+
+body{
+
+	background-color: darkgrey;
+}
+
+button{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+}
+
+.container{
+	width: 900px;
+
+}
